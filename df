@@ -1,0 +1,13 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 6eccf45..bbc2d71 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1,5 +1,4 @@[m
+ This is the read me file for demo only.[m
+ i have changed somthing.[m
+ fadfdas[m
+[31m-[m
+[31m-i am just changing[m
+\ No newline at end of file[m
+[32m+[m[32madsfadsfds[m
+\ No newline at end of file[m
